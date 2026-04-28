@@ -33,8 +33,7 @@ Microsoft Excel — data tables, formulas, charts, slicers, and conditional form
 ## How to Use
 1. Open the Excel file
 2. Navigate to the "Dashboard" sheet to view KPIs and charts
-3. Use slicers on "Monthly Totals" and "Category Breakdown" sheets to filter by month
-4. Analyze trends, compare categories, and export insights
+3. Analyze trends, compare categories, and export insights
 
 ---
 **Submitted for:** Thiranex Internship Task 1 | Data Analytics  
